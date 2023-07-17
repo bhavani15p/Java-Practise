@@ -1,0 +1,6 @@
+for Loop
+--------
+
+for(initialisation; condition; updation){
+    //do something
+}
